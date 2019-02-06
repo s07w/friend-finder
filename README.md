@@ -24,7 +24,7 @@ The user is first taken to the home page, where they can:
 
 ## Challenges
 
-Getting all of the dispirate elements of this project to coordinate was even more difficult than the Bamazon app beforehand. But, this is the world of full stack development! I especially ran into problems figuring out where the module.exports would be placed. This took a mixture of logic, common sense, and trial and error. I was ultimately very pleased with the results. 
+Getting all of the dispirate elements of this project to coordinate was even more difficult than the Bamazon app beforehand. But, this is the world of full stack development! I especially ran into problems figuring out where the module.exports would be placed. The logic required for the friend finder itself was very tricky too. Both of these took a mixture of logic, common sense, and trial and error. I was ultimately very pleased with the results. 
 
 ## Technologies used
 
